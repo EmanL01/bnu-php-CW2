@@ -1,3 +1,18 @@
+<!doctype html>
+<html>
+   <body>   
+    <style>
+
+        body {
+
+            background-color: lightblue;
+        }
+
+
+    </style>
+</body>
+
+
 <?php
 
 include("_includes/config.inc");
